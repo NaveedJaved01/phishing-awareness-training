@@ -1,0 +1,3 @@
+# Task : Phishing Awareness Training
+# No external Python packages required.
+# Project uses PDF, Markdown, images, and GitHub documentation.
